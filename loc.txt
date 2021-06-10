@@ -2,6 +2,38 @@
 using namespace std;
 int main
 {
+//1234568
+q
+
+wd
+wd
+wd
+wd
+w
+dw
+dw
+d
+wd
+wd
+wd
+wd
+w
+d
+wd
+wd
+wd
+wd
+wd
+w
+dw
+d
+wd
+wd
+wd
+wd
+wd
+w
+dw
 	cout <<"Hello world";
-	return 0
+	return 0;
 }
